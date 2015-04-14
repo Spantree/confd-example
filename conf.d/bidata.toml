@@ -1,0 +1,7 @@
+[template]
+src = "bi-data.properties.tmpl"
+dest = "/bi-data.properties"
+keys = [
+  "BLA",
+  "BLE"
+]
